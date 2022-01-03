@@ -6,8 +6,8 @@
     "Brews": [
         {
             "Name": "Asteroids 64",
-            "Description": "",
-            "DownloadUrl": ""
+            "Description": "Asteroids 64 - No description",
+            "DownloadUrl": "https://raw.githubusercontent.com/stefanmielke/n64brew-browser-sources/main/jam2021-roms/asteroids64.z64"
         }
     ]
 }

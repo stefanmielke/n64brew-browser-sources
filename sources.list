@@ -1,2 +1,2 @@
 ; format: [download_type:rom] [url] [version:1]
-rom jam2021 1
+rom https://raw.githubusercontent.com/stefanmielke/n64brew-browser-sources/main/jam2021.json 1
