@@ -1,0 +1,13 @@
+{
+    "Source": {
+        "Description": "Games from N64Brew 2021 Jam",
+        "Version": 1
+    },
+    "Brews": [
+        {
+            "Name": "Asteroids 64",
+            "Description": "",
+            "DownloadUrl": ""
+        }
+    ]
+}
